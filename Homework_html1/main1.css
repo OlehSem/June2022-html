@@ -1,0 +1,19 @@
+
+img {
+    max-width: 400px;
+
+}
+h1{
+    text-align: center;
+    color: dimgray;
+}
+a{
+    color: seagreen;
+    text-decoration: none;
+}
+p, li{
+    color: olivedrab;
+    font-family: "Century Gothic";
+    font-size: small;
+
+}
